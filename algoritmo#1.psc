@@ -5,5 +5,5 @@ Algoritmo sin_titulo
 	Escribir 'Digita otro numero';
 	Leer num2;
 	sumar = num1 + num2;
-	Escribir ' la suma de los dos numeros es ' sumar;
+	Escribir ' la suma de los dos numeros es ' sumar, ' es mi primera chamba';
 FinAlgoritmo
